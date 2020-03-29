@@ -25,15 +25,15 @@ Show all Items list:
 http://localhost:2222/listItems
 
 ### AddTransactions
-http://localhost:1111/createTransaction?itemCode=100&paymentMethod=100
+http://localhost:2222/createTransaction?itemCode=100&paymentMethod=100
 
-http://localhost:1111/createTransaction?itemCode=101&paymentMethod=101
+http://localhost:2222/createTransaction?itemCode=101&paymentMethod=101
 
-http://localhost:1111/createTransaction?itemCode=102&paymentMethod=101
+http://localhost:2222/createTransaction?itemCode=102&paymentMethod=101
 
 Show all transaction list:
 
-http://localhost:1111/listTransactions
+http://localhost:2222/listTransactions
 
 ## Spark handler
 ### Welcome
