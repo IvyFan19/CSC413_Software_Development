@@ -1,6 +1,8 @@
 # CSC413_Software_Development
 
 ## Test code
+### Welcome Page
+http://localhost:2222/
 
 ### AddPaymentMethod
 http://localhost:2222/addPaymentMethod?method=BOA
@@ -34,9 +36,5 @@ http://localhost:2222/createTransaction?itemCode=102&paymentMethod=101
 Show all transaction list:
 
 http://localhost:2222/listTransactions
-
-## Spark handler
-### Welcome
-http://localhost:2222/
 
 
